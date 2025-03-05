@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.env
+.env
+
+# Virtual Environment
+venv/
+.env/
+*.venv
+*.virtualenv
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Streamlit Cache
+.streamlit/
+
+# ChromaDB Persistent Storage
+chroma_db/
+
+# Jupyter Notebook Checkpoints (if used)
+.ipynb_checkpoints/
+
+# OS-Specific Files
+.DS_Store
+Thumbs.db
